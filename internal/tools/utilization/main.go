@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/internal/utilization"
+	"github.com/Beeketing/go-agent"
+	"github.com/Beeketing/go-agent/internal/utilization"
 )
 
 func main() {

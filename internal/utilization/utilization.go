@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/newrelic/go-agent/internal/logger"
-	"github.com/newrelic/go-agent/internal/sysinfo"
+	"github.com/Beeketing/go-agent/internal/logger"
+	"github.com/Beeketing/go-agent/internal/sysinfo"
 )
 
 const (

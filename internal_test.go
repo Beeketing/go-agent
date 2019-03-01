@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/newrelic/go-agent/internal"
+	"github.com/Beeketing/go-agent/internal"
 )
 
 var (

@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/newrelic/go-agent/internal/logger"
+	"github.com/Beeketing/go-agent/internal/logger"
 )
 
 const (

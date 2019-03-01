@@ -123,7 +123,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/newrelic/go-agent"
+	"github.com/Beeketing/go-agent"
 )
 
 func helloHandler(w http.ResponseWriter, r *http.Request) {
