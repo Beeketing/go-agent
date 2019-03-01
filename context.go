@@ -6,7 +6,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/newrelic/go-agent/internal"
+	"github.com/Beeketing/go-agent/internal"
 )
 
 // NewContext returns a new Context that carries the provided transcation.

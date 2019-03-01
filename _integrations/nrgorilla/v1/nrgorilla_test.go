@@ -5,9 +5,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/gorilla/mux"
-	newrelic "github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/internal"
+	"github.com/Beeketing/mux"
+	newrelic "github.com/Beeketing/go-agent"
+	"github.com/Beeketing/go-agent/internal"
 )
 
 func makeHandler(text string) http.Handler {

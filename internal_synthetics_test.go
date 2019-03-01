@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/newrelic/go-agent/internal"
-	"github.com/newrelic/go-agent/internal/cat"
+	"github.com/Beeketing/go-agent/internal"
+	"github.com/Beeketing/go-agent/internal/cat"
 )
 
 // This collection of top-level tests affirms, for all possible combinations of

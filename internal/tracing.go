@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/newrelic/go-agent/internal/cat"
-	"github.com/newrelic/go-agent/internal/sysinfo"
+	"github.com/Beeketing/go-agent/internal/cat"
+	"github.com/Beeketing/go-agent/internal/sysinfo"
 )
 
 // MarshalJSON limits the number of decimals.

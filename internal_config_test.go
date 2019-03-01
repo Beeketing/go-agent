@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/newrelic/go-agent/internal"
-	"github.com/newrelic/go-agent/internal/utilization"
+	"github.com/Beeketing/go-agent/internal"
+	"github.com/Beeketing/go-agent/internal/utilization"
 )
 
 var (

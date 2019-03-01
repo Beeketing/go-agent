@@ -9,9 +9,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/gin-gonic/gin"
-	newrelic "github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/internal"
+	"github.com/Beeketing/gin"
+	newrelic "github.com/Beeketing/go-agent"
+	"github.com/Beeketing/go-agent/internal"
 )
 
 func accessTransactionContextContext(c *gin.Context) {

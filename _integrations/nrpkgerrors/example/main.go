@@ -5,9 +5,9 @@ import (
 	"os"
 	"time"
 
-	newrelic "github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/_integrations/nrpkgerrors"
-	"github.com/pkg/errors"
+	newrelic "github.com/Beeketing/go-agent"
+	"github.com/Beeketing/go-agent/_integrations/nrpkgerrors"
+	"github.com/Beeketing/errors"
 )
 
 type sampleError string

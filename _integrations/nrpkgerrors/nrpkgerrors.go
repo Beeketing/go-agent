@@ -6,9 +6,9 @@ package nrpkgerrors
 import (
 	"fmt"
 
-	newrelic "github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/internal"
-	"github.com/pkg/errors"
+	newrelic "github.com/Beeketing/go-agent"
+	"github.com/Beeketing/go-agent/internal"
+	"github.com/Beeketing/errors"
 )
 
 func init() { internal.TrackUsage("integration", "pkg-errors") }

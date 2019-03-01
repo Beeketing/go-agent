@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"errors"
-	"github.com/newrelic/go-agent/internal"
-	"github.com/newrelic/go-agent/internal/cat"
+	"github.com/Beeketing/go-agent/internal"
+	"github.com/Beeketing/go-agent/internal/cat"
 )
 
 var (

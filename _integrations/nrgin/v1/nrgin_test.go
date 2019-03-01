@@ -6,13 +6,13 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/gin-gonic/gin"
-	newrelic "github.com/newrelic/go-agent"
-	"github.com/newrelic/go-agent/internal"
+	"github.com/Beeketing/gin"
+	newrelic "github.com/Beeketing/go-agent"
+	"github.com/Beeketing/go-agent/internal"
 )
 
 var (
-	pkg = "github.com/newrelic/go-agent/_integrations/nrgin/v1"
+	pkg = "github.com/Beeketing/go-agent/_integrations/nrgin/v1"
 )
 
 func testApp(t *testing.T) newrelic.Application {

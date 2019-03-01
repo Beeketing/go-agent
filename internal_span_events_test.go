@@ -3,7 +3,7 @@ package newrelic
 import (
 	"testing"
 
-	"github.com/newrelic/go-agent/internal"
+	"github.com/Beeketing/go-agent/internal"
 )
 
 func TestSpanEventSuccess(t *testing.T) {
